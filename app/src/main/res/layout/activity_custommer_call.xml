@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/black"
-    tools:context="com.example.ade.slametinpolisiapp1.CustommerCall">
+    tools:context="id.sch.smktelkom_mlg.afinal.xirpl2013234.helpmepolice.CustommerCall">
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/map_image"

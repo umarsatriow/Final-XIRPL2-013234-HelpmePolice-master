@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398133624906",
+    "firebase_url": "https://help-me-fix.firebaseio.com",
+    "project_id": "help-me-fix",
+    "storage_bucket": "help-me-fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398133624906:android:62a1ee84397e8b6b",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.afinal.xirpl2013234.helpmepolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398133624906-gq58ok4bcsj0o9eiolgoetidcedp2q0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.afinal.xirpl2013234.helpmepolice",
+            "certificate_hash": "8c1c43434027329d179c5299ac2317595b631fbe"
+          }
+        },
+        {
+          "client_id": "398133624906-hut8k2j6vdr2a13gq9c7sqdfpgldfan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQt8Okc4GPuWONCC9BITLgsOvDqNCbgUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398133624906-hut8k2j6vdr2a13gq9c7sqdfpgldfan3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

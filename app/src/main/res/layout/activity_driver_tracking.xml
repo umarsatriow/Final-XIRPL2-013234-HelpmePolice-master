@@ -4,4 +4,4 @@
     android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.ade.slametinpolisiapp1.DriverTracking" />
+    tools:context="id.sch.smktelkom_mlg.afinal.xirpl2013234.helpmepolice.DriverTracking" />

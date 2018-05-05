@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "helpme.xirpl2013234.afinal.smktelkom_mlg.sch.id.helpmepolisiapp"
+        applicationId "id.sch.smktelkom_mlg.afinal.xirpl2013234.helpmepolice"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

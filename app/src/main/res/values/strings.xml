@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HelpMePolice</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyCD1XSg66JilItFjz4-dToC-YFjFN-3PNI</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_driver_home">Position</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
